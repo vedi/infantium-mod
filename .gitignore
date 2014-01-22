@@ -1,0 +1,5 @@
+.DS_Store
+proj.android/bin
+proj.android/gen
+local.properties
+
